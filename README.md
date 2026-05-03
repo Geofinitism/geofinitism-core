@@ -154,5 +154,5 @@ It is a measured event.
 Meaning is not contained.  
 It is reconstructed.
 
-The map is a tide.  
-And the tide is measured.
+The map is a tide and the tide is a map;
+the shoreline is where we measure.
