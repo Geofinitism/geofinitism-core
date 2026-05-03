@@ -145,7 +145,13 @@ GitHub: https://github.com/Geofinitism/geofinitism-core
 - Then: `finite-symbolic-mechanics`  
 
 ---
+## Resource Map
 
+A structured overview of repositories and work:
+
+➡️ [RESOURCE_MAP.md](./RESOURCE_MAP.md)
+
+---
 ## Closing
 
 A symbol is not a thing.  
