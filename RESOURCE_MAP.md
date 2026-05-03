@@ -21,7 +21,7 @@ Early essays, trajectories, and development work:
   https://github.com/KevinHaylett/Geofinitism
 
 - Essays and Trajectories  
-  https://github.com/KevinHaylett/Geofinitism/Essays/
+[  https://github.com/KevinHaylett/Geofinitism/Essays/](https://github.com/KevinHaylett/Geofinitism/tree/main/Essays)
 
 ---
 
