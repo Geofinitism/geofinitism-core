@@ -342,6 +342,7 @@ Nine technical papers identified. Processing = paper summary (.md) + lesson + co
 | P07 | Geofinitism: Decompressing Meaning — When the Reader Becomes the Author | Language Dynamics | FSM | ✓ Processed — [summary](../college-language-dynamics/papers/P07_decompressing_meaning_summary.md) \| [lesson](../college-language-dynamics/lessons/P07_decompressing_meaning_lesson.md) |
 | P08 | Autoregression Is Not Takens — Why Next-Token Prediction Cannot Reconstruct Semantic Manifolds | Machine Intelligence | Language Dynamics | ✓ Processed — [summary](../college-machine-intelligence/papers/P08_autoregression_not_takens_summary.md) \| [lesson](../college-machine-intelligence/lessons/P08_autoregression_not_takens_lesson.md) |
 | P09 | Static Vector Insufficiency for Natural Language Meaning: A Multi-Vector Proof | Machine Intelligence | Language Dynamics | ✓ Processed — [summary](../college-machine-intelligence/papers/P09_static_vector_insufficiency_summary.md) \| [lesson](../college-machine-intelligence/lessons/P09_static_vector_insufficiency_lesson.md) |
+| P10 | From Formula to Process: Bridging Machine Learning Mathematics and Nonlinear Dynamics | Machine Intelligence | FSM; Language Dynamics | ✓ Processed — [summary](../college-machine-intelligence/papers/P10_formula_to_process_summary.md) \| [lesson](../college-machine-intelligence/lessons/P10_formula_to_process_lesson.md) |
 
 ---
 
