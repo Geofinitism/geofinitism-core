@@ -327,22 +327,6 @@ For readers arriving from other fields. Each entry lists: the most accessible br
 
 ---
 
-## §9 — Papers Register (Pending Processing)
-
-Nine technical papers identified. Processing = paper summary (.md) + lesson + college README entry.
-
-| # | Working Title | Primary College | Secondary | Status |
-|---|---|---|---|---|
-| P01 | Takens-Based Transformer — Introducing the TBT | Machine Intelligence | Language Dynamics | ✓ Processed — [summary](../college-machine-intelligence/papers/P01_tbt_summary.md) \| [lesson](../college-machine-intelligence/lessons/P01_tbt_lesson.md) |
-| P02 | Pairwise Phase Space Embedding in Transformer Architectures | Machine Intelligence | Language Dynamics | ✓ Processed — [summary](../college-machine-intelligence/papers/P02_pairwise_phase_space_summary.md) \| [lesson](../college-machine-intelligence/lessons/P02_pairwise_phase_space_lesson.md) |
-| P03 | JPEG Compression in LLM Embeddings | Machine Intelligence | Language Dynamics; Finite Measurements | ✓ Processed — [summary](../college-machine-intelligence/papers/P03_jpeg_compression_summary.md) \| [lesson](../college-machine-intelligence/lessons/P03_jpeg_compression_lesson.md) |
-| P04 | The Finite-Symbol Embedding Theorem (Takens-Haylett Theorem) | Machine Intelligence | FSM; Language Dynamics | ✓ Processed — [summary](../college-machine-intelligence/papers/P04_finite_symbol_embedding_theorem_summary.md) \| [lesson](../college-machine-intelligence/lessons/P04_finite_symbol_embedding_theorem_lesson.md) |
-| P05 | Language as a Nonlinear Dynamical System | Language Dynamics | Machine Intelligence | ✓ Processed — [summary](../college-language-dynamics/papers/P05_language_nonlinear_dynamical_system_summary.md) \| [lesson](../college-language-dynamics/lessons/P05_language_nonlinear_dynamical_system_lesson.md) |
-| P06 | The Measured World: Where Compression Replaces Correspondence | Language Dynamics | FSM | ✓ Processed — [summary](../college-language-dynamics/papers/P06_measured_world_compression_summary.md) \| [lesson](../college-language-dynamics/lessons/P06_measured_world_compression_lesson.md) |
-| P07 | Geofinitism: Decompressing Meaning — When the Reader Becomes the Author | Language Dynamics | FSM | ✓ Processed — [summary](../college-language-dynamics/papers/P07_decompressing_meaning_summary.md) \| [lesson](../college-language-dynamics/lessons/P07_decompressing_meaning_lesson.md) |
-| P08 | Autoregression Is Not Takens — Why Next-Token Prediction Cannot Reconstruct Semantic Manifolds | Machine Intelligence | Language Dynamics | ✓ Processed — [summary](../college-machine-intelligence/papers/P08_autoregression_not_takens_summary.md) \| [lesson](../college-machine-intelligence/lessons/P08_autoregression_not_takens_lesson.md) |
-| P09 | Static Vector Insufficiency for Natural Language Meaning: A Multi-Vector Proof | Machine Intelligence | Language Dynamics | ✓ Processed — [summary](../college-machine-intelligence/papers/P09_static_vector_insufficiency_summary.md) \| [lesson](../college-machine-intelligence/lessons/P09_static_vector_insufficiency_lesson.md) |
-| P10 | From Formula to Process: Bridging Machine Learning Mathematics and Nonlinear Dynamics | Machine Intelligence | FSM; Language Dynamics | ✓ Processed — [summary](../college-machine-intelligence/papers/P10_formula_to_process_summary.md) \| [lesson](../college-machine-intelligence/lessons/P10_formula_to_process_lesson.md) |
 
 ---
 
@@ -358,54 +342,6 @@ All essays and papers carry a basin status. The vocabulary is consistent across 
 | **Convergent** | Evolving toward stable — the argument is clearly headed somewhere but not yet fixed |
 | **Incomplete** | Content is present but file is truncated or sections are missing |
 | **TBD** | Not yet assigned or not yet processed |
-
----
-
-## §11 — Pending Items and Notes
-
-Active backlog — items requiring action across the organisation.
-
-### Priority (PRIORITY flag)
-
-| Item | Type | Essay / Location | Action |
-|---|---|---|---|
-| ATT_62 Chapters 6–8 missing | Content | `ATT_62` | Kevin to re-upload complete file |
-| ATT_61 running header / secondary title "P vs NP" | Re-style | `ATT_61` LaTeX | Fix to "Consensus Thesis" |
-| ATT_63 `\begin{document}` at wrong position | Re-style | `ATT_63` LaTeX | Move before first `\maketitle` |
-
-### Standard Re-style Backlog
-
-Recurring issues across the LaTeX source files for the Attralucian Essays series (ATT_39–65):
-
-| Issue | Affected essays | Fix |
-|---|---|---|
-| `\textbf\textbf{}` nested bold on secondary title | ATT_39 onwards | `\textbf{}` |
-| `{\textit\textbf{First Edition}}` | ATT_39 onwards | `{\textit{\textbf{First Edition}}}` |
-| Double `\maketitle` | ATT_39 onwards | Remove second call |
-| `{\LargeThe` missing space | ATT_49, ATT_59, ATT_60 | `{\Large The` |
-| ATT_62 `"The The"` double article on secondary title | ATT_62 | Remove duplicate "The" |
-| ATT_62 duplicate `\docref{}` definition | ATT_62 | Remove duplicate at line 62 |
-
-### Missing Essays
-
-| Slot | Note |
-|---|---|
-| ATT_20 | Renumbered by Kevin — to be inserted as ATT_120 when located |
-| ATT_33 | To be inserted as ATT_133 when located |
-| ATT_38 | Thesis-format essay (The Generonic Boundary) — deferred for separate processing |
-| ATT_08b | Essay 08 Part 2 — to be inserted as ATT_108b when located |
-
-### Pending Structures
-
-| Item | Action |
-|---|---|
-| College READMEs for 5 remaining colleges | Create scaffold README for each |
-| Corpus Ancora documentation | Create `corpus-ancora/` in Attralucian Studies |
-| 9 papers | Process with factory method |
-| Bridge documents | First: TBT / protein structures |
-| Monographs | Process after papers |
-| Substack articles mapping | Map ~50 articles to existing essays or create stubs |
-| Cross-listing | Add cross-listed entries to target college READMEs once they exist |
 
 ---
 
